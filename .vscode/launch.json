@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open cabbage.html",
-            "file": "/home/kev/Desktop/html_Projects/odin-recipes/recipes/cabbage.html"
+            "name": "Open shepherdpie.html",
+            "file": "/home/kev/Desktop/html_Projects/odin-recipes/recipes/shepherdpie.html"
         }
     ]
 }
