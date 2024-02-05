@@ -17,6 +17,16 @@ body { text-align: center;
     
 }
 
+#hawai{
+    border-radius: 30px;
+    border: 20px solid pink;
+}
+#shepherd{
+    border-top-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border: 10px solid red;
+}
+
 .a1{
     font-size: xx-large;
 }
