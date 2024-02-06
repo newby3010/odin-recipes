@@ -17,14 +17,9 @@ p{
     background-image: url("../images/kitty.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size:co;
-    
     background-attachment: fixed;
-    
-    
-    
-    
 }
+
 .odin{
     font-size: 100px;
     color: burlywood;
@@ -34,7 +29,7 @@ p{
 }
 .list {
     display: inline-block;
-    color:burlywood
+    
     
 }
 
