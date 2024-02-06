@@ -18,9 +18,10 @@ p{
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    
 }
-
+#sausage{
+    background-image: url("../images/sausage.webp");
+}
 .odin{
     font-size: 100px;
     color: burlywood;
