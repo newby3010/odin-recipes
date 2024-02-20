@@ -1,23 +1,17 @@
+
 body { text-align: center;
+    background-color: darkcyan;
     background-color: aqua;
     font-family: "Open Sans", "PT Sans", Calibri, Tahoma, sans-serif;
 }
-
-
-.recipes{
-    font-size: 100px;
-    color: burlywood;
-
 p{
     color:black;
     font-size: bold;
    
 }
-
 #pot{
     border-radius: 20px;
     border: 10px solid #555;
-
 }
 #kitty{
     background-image: url("../images/kitty.jpeg");
@@ -28,9 +22,9 @@ p{
 #sausage{
     background-image: url("../images/sausage.webp");
 }
-
-
-
+.odin{
+    font-size: 100px;
+    color: burlywood;
 }
 .prep{
     color:mediumblue;
@@ -40,7 +34,6 @@ p{
     
     
 }
-
 #hawai{
     border-radius: 30px;
     border: 20px solid pink;
@@ -50,7 +43,6 @@ p{
     border-bottom-right-radius: 50%;
     border: 10px solid red;
 }
-
 .a1{
     font-size: xx-large;
 }
@@ -65,6 +57,3 @@ p{
     font-size: x-large;
     color:aliceblue;
 }
-
-
-
