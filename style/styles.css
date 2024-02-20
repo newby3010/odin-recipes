@@ -2,15 +2,12 @@ body { text-align: center;
     background-color: aqua;
     font-family: "Open Sans", "PT Sans", Calibri, Tahoma, sans-serif;
 }
-.odin{
-    padding: 0; 
-    background-color: blue;
-    border-radius:40% ;
-    margin:10px auto;
-}
-h1{
-    margin: 30px;
-}
+
+
+.recipes{
+    font-size: 100px;
+    color: burlywood;
+
 p{
     color:black;
     font-size: bold;
@@ -31,9 +28,9 @@ p{
 #sausage{
     background-image: url("../images/sausage.webp");
 }
-.odin{
-    font-size: 100px;
-    color: burlywood;
+
+
+
 }
 .prep{
     color:mediumblue;
