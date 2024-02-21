@@ -22,7 +22,10 @@ p{
 #sausage{
     background-image: url("../images/sausage.webp");
 }
-.odin{display: block;
+.odin{
+    display: block;
+    margin-left: 35%;
+    width:600px;
     
     border:solid #af1e1e;
     font-size: 100px;
